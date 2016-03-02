@@ -1,0 +1,14 @@
+.page-header{
+    background: url("../img/header.jpg") no-repeat scroll right bottom;
+}
+.navbar{
+	font-size:18px;
+	font-weight:bold;
+}
+.navbar li{
+	margin-bottom:0;
+}
+ul li,ol li{
+	margin-bottom:5px;
+}
+

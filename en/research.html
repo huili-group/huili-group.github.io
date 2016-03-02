@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+<title>Prof. Hui LI Group</title>
+
+<!-- Bootstrap -->
+<link href="../css/bootstrap.css" rel="stylesheet">
+<link href="../css/costum.css" rel="stylesheet">
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+		<script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+</head>
+<body>
+<div class="container">
+	<div class="page-header">
+				<h1>Prof. Hui LI Group <small>Theoretical Study of Spectroscopy and Dynamics</small></h1>
+			</div>
+			<!--{{{ navigation bar!!!! do not look in it unless you are patient enough!!! -->
+			<nav class="navbar navbar-default">
+			<div class="container-fluid">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<!--<a class="navbar-brand" href="#">Brand</a>-->
+				</div>
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					<ul class="nav navbar-nav">
+						<li><a href="index.html">Home</a></li>
+						<li><a href="about.html">About Prof. Li</a></li>
+						<!-- set it .active on each page!!!! -->
+						<li><a href="member.html">Members</a></li>
+						<li class="active"><a href="research.html">Research<span class="sr-only">(current)</span></a></li>
+						<li><a href="pub.html">Publications</a></li>
+						<li><a href="program.html">Programs</a></li>
+						<li><a href="album.html">Album</a></li>
+						<li><a href="link.html">Links</a></li>
+					</ul>
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="../zh/index.html">中文版</a></li>
+					</ul>
+				</div><!-- /.navbar-collapse -->
+			</div><!-- /.container-fluid -->
+			</nav>
+	<!-- }}} -->
+	<div class="row">
+		<div class="col-md-10 col-md-offset-1">
+
+			<h1 class="text-center">Research Interests</h1>
+			<div class="alert alert-info">
+				<p><strong>Current Research Topics include:</strong></p>
+				<ul>
+					<li>Determination of the potential energy surfaces (PESs) for the polyatomic molecules or weakly bound systems</li>
+<li>Exact full quantum calculation of the infrared or microwave spectra for small molecules or molecular clusters</li>
+<li>Development of Path Integral Monte-Carlo (PIMC) or Path Integral Molecular Dynamics (PIMD) methods</li>
+<li>Development of new method to calculate 1-D, 2-D IR spectra</li>
+<li>Simulations of the microscopic superfluidity in doped quantum solution</li>
+<li>Simulations of the IR spectra of aerosol in the atmosphere</li>
+				</ul>
+			</div>
+			
+			<p><b>Developing path-integral Monte-Carlo (PIMC) methods to simulate nanoscale superfluid behaviour in weakly bound clusters</b> in order to improve our understanding of quantum solvation and microscopic superfluidity.
+			Recently, we developed an accurate and computationally inexpensive “potential difference” PIMC method for predicting the vibrational frequency shifts of chromophore molecules embedded in weakly bound He or H2 clusters. These shift predictions have allowed experimentalists to assign IR transitions which were observed for large clusters in high resolution spectroscopy, and to provide detailed information on cluster structure and dynamics.  In order to explore the onset of superfluidity, we applied two-fluid and dipole-dipole correlation function models to obtain the superfluid fraction and effective moments of inertia for a range of cluster sizes.  For H2 clusters, we determined the “superfluid response” in collaboration with the experimental group of A.R.W. McKellar.  In the future, we plan to develop new theoretical methods to bridge the gap between small clusters and the nano-droplet size regions, and to explore the approach to limiting behaviour of physical properties for very large cluster sizes.</p>
+			<img class="img-responsive" style="margin:auto" src="../img/PIMC.png" alt="PIMC"/>
+			<img class="img-responsive" style="margin:auto" src="../img/superfluid.png" alt="superfluidity" />
+			
+			<p><b>Developing accurate intermolecular potential energy surfaces for weakly bound systems.</b>
+			Recently, we have determined new muti-dimensional and analytic Morse/Long-Rang (MLR) potentials for weakly bound system, which incorporate theoretically known long-range inverse-power behaviour and allows parameters of that radial function to vary with angle and stretch-vibration motion of monomer.  The MLR model has clear physical meaning, and it is possible to morph our potentials to improve agreement with experimental spectra. The compact explicit analytic form of our potentials will facilitate their use for future applications. We also developed a new “hindered rotor” averaging method to allow reduced-dimension treatments of para-H2-(molecule) complexes, and found that para-H2 should not be treated as being spherical, as was usually done in traditional treatments of these systems.  In the future, we plan to develop new muti-dimensional MLR-type potential models for real chemical reactions and for complicated intermolecular systems. </p>
+			<img class="img-responsive" style="margin:auto" src="../img/IR.png" alt="IR and Microwave Spectra"/>
+			
+			
+			<!--<h2>Secondary organic aerosols are formed in the atmosphere through condensation of oxidation products of volatile organic compounds.</h2>-->
+			<p><b>Theoretical Simulating the Vibrational Spectra of the Secondary Organic Aerosol with Hydrogen Bonds</b>   Secondary organic aerosols, as an important part of atmospheric aerosol, have a great influence on the climate change，environmental pollution and human health, and have been given great attention from research scientists. Spectroscopic characterization of secondary organic aerosols is an important experimental method to investigate their components, architecture, size, shape and other intrinsic particle properties. However, due to the intrinsic complexes of the secondary organic aerosols, the observed experimental spectra are very hard to be assigned. Usually, the secondary organic aerosols have hydrogen bonds, which are easy to form dynamic hydrogen-bond network during their condensation, and have non-negligible nuclear quantum effects.  For this research, based on the hot topic of atmospheric chemistry, secondary organic aerosols with hydrogen bonds are selected as our research objects. A path-integral molecular dynamics (PIMD) code will be developed in this project.  With our own ab initio-based representation of the underlying inter- and intra- molecular interactions and forces, it will be applied in simulating the structure and dynamics of hydrogen-bond network in second organic aerosols to investigate the quantum effects with temperature dependent. Combining with first perturbation theory and central molecular dynamics method, PIMD will be used in simulating the vibrational spectra of the secondary organic aerosol, and help experimentalists to assign their observations, and in addition to provide the basic data for future analyzing the remote spectroscopic information.</p>
+			<img class="img-responsive" style="margin:auto" src="../img/aerosol.png" alt="aerosol"/>
+			
+			
+			<p><b>Vibrational Probe of Protein Conformational Dynamics</b>
+			Protein exists as an ensemble of conformers; however, its biological function is often carried out through higher energy states. Ligand binding and the catalytic process itself can significantly shift the relative populations of protein conformation states. An understanding of the mechanism of protein conformational inter-conversion is important to elucidating the biological functions of enzymes. Vibrational spectroscopy of probe molecules, strategically placed inside a protein, can provide detailed information on the local electrostatic field, and can help characterize protein conformational heterogeneity. The aim of this proposal is to develop theoretical and computational techniques to accurately determine one and two dimensional vibrational spectra of functional groups inside enzymes and small peptides in solution. The primary goal is to understand the dynamic conformational changes along the reaction pathway of enzymatic catalysis in ketosteroid isomerase and dihydrofolate reductase, and the protein conformational heterogeneity in the substrate-protein complex of lactate dehydrogenase. To achieve these goals, we propose to employ combined quantum mechanical and molecular mechanical (QM/MM) methods to represent the potential energy surface of the probe molecule and to model intermolecular interactions through molecular dynamics simulations. Furthermore, we plan on determining one and two dimensional vibrational spectra based on the time evolution of molecular dipole moment and transition moment of the probe molecules from QM/MM simulations.  We also propose to use a perturbative approach to efficiently determine the instantaneous vibrational frequencies of probe molecules along the dynamic trajectories.  The proposed research brings together the expertise of two leading research groups in their fields, and the method developed in this work can be applied to other chemical and biochemical systems. The understanding of protein conformational states will likely to be generally applicable to other enzymes.  </p>
+			<!-- <h1 id="最新进展">最新进展</h1>
+			<h2 id="发展two-worms-pimc方法模拟混合玻色体系中的相分离">发展Two-Worms-PIMC方法：模拟混合玻色体系中的相分离</h2>
+			<p>超流是一种极限的宏观物理现象，在温度接近0K时，液态氦-4和氦-3转变为没有摩擦，无粘性，熵为零，无限导热的量子流体。仲氢与氦-4类似，是无自旋不可区分的玻色体系，是最有可能具有超流性质的候选物质之一。2010年，结合理论和实验观测，我们发侧中氢在纳米尺度的微观超流（<em>Phys. Rev. Lett.</em> <strong>105</strong>,133401(2010)）。迄今为止，氦-4与仲氢是被确定的两种超流物质，当这两种物质混合在一起时，总的超流是增强还是减弱？各自的超流分数是多少？自然的成为当前该领域研究中又一热点讨论主题。最近，我们发展了基于双蠕虫算符的路径积分蒙特卡洛方法，并成功的应用于量子混合溶剂的研究，我们将CO2分子作为探测器置于氦-4和仲氢的量子混合溶剂中，在不同尺寸、不同组分的混合团簇中，我们发现在特定团簇中相分离现象，相分离的位置与实验观测到奇异现象的位置完全吻合（<em>Science</em> <strong>289</strong>,1532(2000))当时他们把这种现象错误的归咎为仲氢超流的表现。</p>
+			<h2 id="发展一维二维超快红外光谱计算新方法研究酸离解动力学">发展一维、二维超快红外光谱计算新方法：研究酸离解动力学</h2>
+			<p>随着超快激光光谱和分子束技术的发展，光谱解析酸离解引起的溶剂化过程正逐渐成为可能。尽管红外光谱研究(HCN)<sub>m</sub>-(H<sub>2</sub>O)<sub>n</sub>簇获得了大量光谱信息但在光谱指认和微观解释内在的动力学方面仍然面临诸多困难。1）如何构建含氢键体系的分子内一分子间势能或力场；2）如何有效的包含振动模的量子效应；3）如何准确的包含非谐振动运动和振动模式之间的耦合；4）以及有效分离特定振动模的跃迁频率等成为解决该类问题的关键。该研究拟发展一种红外光谱计算新方法：结合分子动力学取样和从头算势能计算，应用微扰理论，采用势能优化离散变分法快速计算局部模振动频率，榭以溶质分子在水溶剂环境中的红外光谱，并将其应用于研究(HCN)<sub>m</sub>-(H<sub>2</sub>O)<sub>n</sub>簇体系中，考察随着n的变化，光谱位移和线形变化规律，揭示簇堆积中的酸离解的起始位置，考察最小酸的结构、稳定性及形成的原因。初步的模拟结果如图所示，我们发展的新方法大大改进了这种传统方法的不足。</p>
+			<h2 id="高维弱相互作用体系势能拟合和振转光谱的计算程序">高维弱相互作用体系势能拟合和振转光谱的计算程序</h2>
+			<p>我们以CH<sub>3</sub>F-He体系为例开发了高维弱相互作用体系势能拟合和振转光谱计算程序，该计算程序包主要包括两大部分：势能拟合部分和振转光谱计算部分。在势能拟合部分我们运用Morse/Long-Range(MLR）势能函数形成体系势能的分析表达式。在振转光谱计算部分我们运用的是离散变量表象（OVR）方法和Lanczos递推迭代的算法来生成矩阵元和对角化该矩阵计算体系光谱．该部分工作的主要创新点在于： 1. MLR函数首次被用到点状分子与非线性分子相互作用体系。 2. 我们的高维势能面包含了探针分子的振动，使该程序不仅可以计算体系的微波转动光谱还可以计算红外振动光谱。 3. 以前的bound程序只能计算能级不能得到波函数．我们的计算程序不仅可以得到波函数还可以用其计算光谱的跃迁强度。 4. 我们的程序包是普适性的。类似的弱相互作用体系势能面和光谱都可以运用该程序包计算。</p>-->
+		</div>
+	</div>
+	<!-- {{{ copyright part, do not change it unless necessary -->
+	<div class="row">
+		<div class="col-md-12">
+			<hr/>
+			<p align="center">Copyright © 2015 研究组网站维护团队</p>
+			<p align="center">Proudly powered by <a href="http://getbootstrap.com/">Bootstrap</a></p>
+		</div>
+	</div>
+	<!--}}} -->
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	<script src="http://cdn.bootcss.com/jquery/1.11.2/jquery.min.js"></script>
+	<!-- Include all compiled plugins (below), or include individual files as needed -->
+	<script src="http://cdn.bootcss.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+
+
+
+</div>
+</body>
+</html>
