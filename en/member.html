@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 	<head>
+    <link rel="icon" href="../img/favicon.ico"/>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -198,10 +199,25 @@
             <div class="info">
               <p><span class="name">Jia-Rui Li</span><br /><span class="state">M. Sc. Student, 2017</span></p>
               <div class="project">
-                <p></p>
+                <p>Photodissociation Dynamics</p>
               </div>
               <div class="email">
                 <p>13844243956@163.com</p>
+              </div>
+            </div>
+          </div>
+          <br/>	
+          <div class="member">
+            <div class="photo">
+              <img src="../img/luwang.jpg">
+            </div>
+            <div class="info">
+              <p><span class="name">Lu Wang</span><br /><span class="state">M. Sc. Student, 2017</span></p>
+              <div class="project">
+                <p>Spectroscopy and Dynamics in doped Quantum or Classical matrix</p>
+              </div>
+              <div class="email">
+                <p>xxx@sample.com</p>
               </div>
             </div>
           </div>
@@ -318,7 +334,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<hr/>
-					<p align="center">Copyright © 2016 研究组网站维护团队</p>
+          <p align="center">Copyright © 2016-<span id="copyrightyear"></span> 研究组网站维护团队</p>
 					<p align="center">Proudly powered by <a href="http://getbootstrap.com/">Bootstrap</a></p>
 				</div>
 			</div>
@@ -329,6 +345,7 @@
 			<!-- Include all compiled plugins (below), or include individual files as needed -->
 			<script src="http://cdn.bootcss.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 
+      <script> var copyrightdate= new Date(); var copyrightyear = copyrightdate.getFullYear(); document.getElementById("copyrightyear").innerHTML = copyrightyear; </script>
 
 
 
