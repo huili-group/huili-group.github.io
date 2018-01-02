@@ -67,6 +67,24 @@
           <ul class="media-list">
             <li class="media">
               <div class="media-left">
+                  <img class="media-object" src="../img/pyjh.jpg" >
+              </div>
+              <div class="media-body">
+                <h4 class="media-heading">2017年11月</h4>
+                <p>祝贺李辉博士成为2017年吉林大学“培英工程计划”首批入选者！</p>
+              </div>
+            </li>
+            <li class="media">
+              <div class="media-left">
+                  <img class="media-object" src="../img/jlu.jpg" >
+              </div>
+              <div class="media-body">
+                <h4 class="media-heading">2017年11月</h4>
+                <p>祝贺刘明心、刘向平、程至、李开元四位同学承担的“大学生创新创业训练计划”项目选为2017年度国家级项目！</p>
+              </div>
+            </li>
+            <li class="media">
+              <div class="media-left">
                   <img class="media-object" src="../img/pnroy.jpg" >
               </div>
               <div class="media-body">
@@ -92,7 +110,13 @@
                 <p>欢迎北京大学刘剑教授访问我们！</p>
               </div>
             </li>
-            <li class="media">
+			
+			
+			<a id="more-news-btn" href="" onclick="document.getElementById('more-news').style.display='block';this.style.display='none';return false;">更多...</a>
+            <span id="more-news" style="display:none;">
+			
+			
+			<li class="media">
               <div class="media-left">
                   <img class="media-object" src="../img/huili_s.jpg" >
               </div>
@@ -101,11 +125,11 @@
                 <p>祝贺李辉博士获得2016年度中国化学会唐敖庆理论化学青年奖！</p>
               </div>
             </li>
-            <!--<li class="media">
+            <li class="media">
               <div class="media-left">
-              <a href="#">
+           
               <img class="media-object" src="../img/jlk.jpg" >
-              </a>
+
               </div>
               <div class="media-body">
               <h4 class="media-heading">2016年4月</h4>
@@ -114,9 +138,9 @@
               </li>
               <li class="media">
               <div class="media-left">
-              <a href="#">
+         
               <img class="media-object" src="../img/szg.jpg" >
-              </a>
+         
               </div>
               <div class="media-body">
               <h4 class="media-heading">2016年4月</h4>
@@ -125,9 +149,9 @@
               </li>
               <li class="media">
               <div class="media-left">
-              <a href="#">
+   
               <img class="media-object" src="../img/xlz2015.jpg" >
-              </a>
+      
               </div>
               <div class="media-body">
               <h4 class="media-heading">2015年8月</h4>
@@ -136,9 +160,9 @@
               </li>
               <li class="media">
               <div class="media-left">
-              <a href="#">
+ 
               <img class="media-object" src="../img/hirano.jpg" >
-              </a>
+
               </div>
               <div class="media-body">
               <h4 class="media-heading">2015年8月</h4>
@@ -147,9 +171,9 @@
               </li>
               <li class="media">
               <div class="media-left">
-              <a href="#">
+     
               <img class="media-object" src="../img/nsfc.jpg" >
-              </a>
+    
               </div>
               <div class="media-body">
               <h4 class="media-heading">2015年7月</h4>
@@ -158,9 +182,9 @@
               </li>
               <li class="media">
               <div class="media-left">
-              <a href="#">
+             
               <img class="media-object" src="../img/nooijen.jpg" >
-              </a>
+       
               </div>
               <div class="media-body">
               <h4 class="media-heading">2015年6月</h4>
@@ -169,15 +193,15 @@
               </li>
               <li class="media">
               <div class="media-left">
-              <a href="#">
               <img class="media-object" src="../img/huili_s.jpg" >
-              </a>
               </div>
               <div class="media-body">
               <h4 class="media-heading">2015年6月</h4>
-              <p>李辉教授作为受邀演讲者赴北京大学参加Recent advances in quantum dynamics and thermodynamics of complex systems （ICQC 2015 分会）。</p>
+              <p>李辉教授作为受邀演讲者赴北京大学参加 Recent advances in quantum dynamics and thermodynamics of complex systems （ICQC 2015 分会）。</p>
               </div>
-              </li>-->
+              </li>
+			  	<a href="" onclick="document.getElementById('more-news').style.display='none';document.getElementById('more-news-btn').style.display='block';return false;">...更少</a>
+			  </span>
               <!--<li><strong>2015年3月</strong> 我们的新网站上线！</li>-->
           </ul>
         </div>
@@ -214,7 +238,7 @@
       <!-- Include all compiled plugins (below), or include individual files as needed -->
       <script src="http://cdn.bootcss.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
       <script> var copyrightdate= new Date(); var copyrightyear = copyrightdate.getFullYear(); document.getElementById("copyrightyear").innerHTML = copyrightyear; </script>
-
+      <!--<script> document.getElementById("more-news").style.display='none';</script>  -->
 
 
 
