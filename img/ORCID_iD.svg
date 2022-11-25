@@ -1,14 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#A6CE39;}
-	.st1{fill:#FFFFFF;}
-</style>
-<path class="st0" d="M256,128c0,70.7-57.3,128-128,128C57.3,256,0,198.7,0,128C0,57.3,57.3,0,128,0C198.7,0,256,57.3,256,128z"/>
-<g>
-	<path class="st1" d="M86.3,186.2H70.9V79.1h15.4v48.4V186.2z"/>
-	<path class="st1" d="M108.9,79.1h41.6c39.6,0,57,28.3,57,53.6c0,27.5-21.5,53.6-56.8,53.6h-41.8V79.1z M124.3,172.4h24.5   c34.9,0,42.9-26.5,42.9-39.7c0-21.5-13.7-39.7-43.7-39.7h-23.7V172.4z"/>
-	<path class="st1" d="M88.7,56.8c0,5.5-4.5,10.1-10.1,10.1c-5.6,0-10.1-4.6-10.1-10.1c0-5.6,4.5-10.1,10.1-10.1   C84.2,46.7,88.7,51.3,88.7,56.8z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="72px"
+   height="72px"
+   viewBox="0 0 72 72"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="ORCID_iD.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs19" />
+  <sodipodi:namedview
+     id="namedview17"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.2125466"
+     inkscape:cx="15.459172"
+     inkscape:cy="42.703363"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="vector_iD_icon" />
+  <!-- Generator: sketchtool 53.1 (72631) - https://sketchapp.com -->
+  <title
+     id="title2">Orcid logo</title>
+  <g
+     id="hero"
+     transform="translate(-924,-72)"
+     fill-rule="nonzero"
+     style="fill:none;stroke:none;stroke-width:1">
+    <g
+       id="Group-4">
+      <g
+         id="vector_iD_icon"
+         transform="translate(924,72)">
+        <path
+           id="Path"
+           style="fill:#ffffff"
+           d="M 36 0 C 16.115685 0 0 16.115685 0 36 C 0 55.884315 16.115685 72 36 72 C 55.884315 72 72 55.884315 72 36 C 72 16.115685 55.884315 0 36 0 z M 21.736328 12.984375 C 23.315206 12.984375 24.582031 14.272874 24.582031 15.8125 C 24.582031 17.352127 23.315206 18.638672 21.736328 18.638672 C 20.15745 18.638672 18.888672 17.352127 18.888672 15.8125 C 18.888672 14.24488 20.15745 12.984375 21.736328 12.984375 z M 19.564453 22.054688 L 23.90625 22.054688 L 23.90625 35.603516 L 23.90625 52.035156 L 19.564453 52.035156 L 19.564453 22.054688 z M 30.277344 22.054688 L 42.007812 22.054688 C 53.172726 22.054688 58.078125 29.976316 58.078125 37.058594 C 58.078125 44.756722 52.015061 52.0625 42.0625 52.0625 L 30.277344 52.0625 L 30.277344 22.054688 z M 34.621094 25.945312 L 34.621094 48.171875 L 41.527344 48.171875 C 51.367128 48.171875 53.623047 40.753695 53.623047 37.058594 C 53.623047 31.040058 49.761003 25.945313 41.302734 25.945312 L 34.621094 25.945312 z " />
+      </g>
+    </g>
+  </g>
 </svg>
