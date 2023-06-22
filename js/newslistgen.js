@@ -16,9 +16,9 @@ function generate_news(lang){
       let div = document.createElement('li');
       div.className = "media";
       let innerhtml = '';
-      innerhtml += '<li class="media"> <div class="media-left"> <img class="media-object" src="../img/' + member["pic"] + '"> </div>';
+      innerhtml += '<div class="media-left"> <img class="media-object" src="../img/' + member["pic"] + '"> </div>';
       innerhtml += '<div class="media-body"> <h4 class="media-heading">' + member["date_"+lang] + '</h4>';
-      innerhtml += '<p>' + member["news_"+lang] + '</p> </div> </li>';
+      innerhtml += '<p>' + member["news_"+lang] + '</p> </div>';
 
       div.innerHTML = innerhtml;
       lst.append(div);
