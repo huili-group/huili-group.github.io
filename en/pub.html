@@ -1,129 +1,130 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
-	<head>
-		<link rel="icon" href="../img/favicon.ico"/>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
-		<title>Prof. Hui Li Group</title>
+  <head>
+    <link rel="icon" href="../img/favicon.ico"/>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <title>Prof. Hui Li Group</title>
 
-		<!-- Bootstrap -->
-		<link href="../css/bootstrap.css" rel="stylesheet">
-		<link href="../css/costum.css" rel="stylesheet">
-		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-		<!--[if lt IE 9]>
-			<script src="https://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-			<script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
-		<![endif]-->
-	</head>
-	<body>
-		<div class="container">
-			<div class="page-header">
-				<h1>Prof. Hui Li Group <small>Theoretical Study of Spectroscopy and Dynamics</small></h1>
-			</div>
-			<!--{{{ navigation bar!!!! do not look in it unless you are patient enough!!! -->
-			<nav class="navbar navbar-default">
-				<div class="container-fluid">
-					<!-- Brand and toggle get grouped for better mobile display -->
-					<div class="navbar-header">
-						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-							<span class="sr-only">Toggle navigation</span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						</button>
-						<!--<a class="navbar-brand" href="#">Brand</a>-->
-					</div>
-					<!-- Collect the nav links, forms, and other content for toggling -->
-					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-						<ul class="nav navbar-nav">
-							<li><a href="index.html">Home</a></li>
-							<li><a href="about.html">About Prof. Li</a></li>
-							<!-- set it .active on each page!!!! -->
-							<li><a href="member.html">Members</a></li>
-							<li><a href="research.html">Research</a></li>
-							<li class="active"><a href="pub.html">Publications<span class="sr-only">(current)</span></a></li>
-							<li><a href="program.html">Programs</a></li>
-							<li><a href="album.html">Album</a></li>
-							<li><a href="link.html">Links</a></li>
-						</ul>
-						<ul class="nav navbar-nav navbar-right">
-							<li><a href="../zh/pub.html">中文版</a></li>
-						</ul>
-					</div><!-- /.navbar-collapse -->
-				</div><!-- /.container-fluid -->
-			</nav>
-			<!-- }}} -->
+    <!-- Bootstrap -->
+    <link href="../css/bootstrap.css" rel="stylesheet">
+    <link href="../css/costum.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="container">
+      <div class="page-header">
+        <h1>Prof. Hui Li Group <small>Theoretical Study of Spectroscopy and Dynamics</small></h1>
+      </div>
+      <!--{{{ navigation bar!!!! do not look in it unless you are patient enough!!! -->
+      <nav class="navbar navbar-default">
+        <div class="container-fluid">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <!--<a class="navbar-brand" href="#">Brand</a>-->
+          </div>
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+              <li><a href="index.html">Home</a></li>
+              <li><a href="about.html">About Prof. Li</a></li>
+              <!-- set it .active on each page!!!! -->
+              <li><a href="member.html">Members</a></li>
+              <li><a href="research.html">Research</a></li>
+              <li class="active"><a href="pub.html">Publications<span class="sr-only">(current)</span></a></li>
+              <li><a href="program.html">Programs</a></li>
+              <li><a href="album.html">Album</a></li>
+              <li><a href="link.html">Links</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="../zh/pub.html">中文版</a></li>
+            </ul>
+          </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+      </nav>
+      <!-- }}} -->
       <div class="row">
         <div class="col-md-10 col-md-offset-1">
 
-          <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true"> 
+          <ul class="nav nav-tabs" id="yearnav">
+            <li role="presentation" id="talknav">
+              <a href="#talk">Oral presentations</a>
+            </li>
+          </ul>
+          <div id="publist"></div>
+          <div id="talklist">
 
-            <div class="panel panel-default" id="oralpanel">
-              <div class="panel-heading" role="tab" id="headingoral">
-                <h4 class="panel-title">
-                  <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseoral" aria-expanded="false" aria-controls="collapseoral">Oral presentations</a>
-                </h4>
-              </div>
-              <div id="collapseoral" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingoral" aria-expanded="false">
-                <ul>
-                  <li><strong>Hui Li</strong>, “Rovibrational Excited States of Large Amplitude Motions”.  2016 InternationalWorkshop on Frontiers of Theoretical and Computational Physics and Chemistry(WFTCPC'16)，Nanchang University, Nanchang, China, August 12-14(2016). </li>
-                  <li><strong>李辉</strong>, “分子振动的非谐性、振动模间耦合及多参考效应对速率常数的影响”.  中国化学会第30届学术年会，中国，大连，大连理工大学，7月1日-4日(2016). </li>
-                  <li><strong>李辉</strong>, “量子振动微扰方法及应用”.  中国化学会第30届学术年会，中国，大连，大连理工大学，7月1日-4日(2016). </li>
-                  <li>Dan Hou, Xiao-Long Zhang, Yong-Tao Ma, Yu Zhai and <strong>Hui Li</strong>,“THE ROLE OF SYMMETRIC-STRETCH VIBRATION IN ASYMMETRIC-STRETCH VIBRATIONAL FREQUENCY SHIFT: THE CASE OF 2CH EXCITATION INFRARED SPECTRA OF ACETYLENE-HYDROGEN VAN DER WAALS COMPLEX”. The 71st International Symposium on Molecular Spectroscopy, University of Illinois at Urbana-Champaign, Urbana, Illinois, USA, June 20-24, (2016)</li>
-                  <li>Dan Hou, Yong-Tao Ma, Xiao-Long Zhang and <strong>Hui Li</strong>,“THE ORIGINS OF INTRA- AND INTER-MOLECULAR VIBRATIONAL COUPLINGS: A CASE STUDY OF H2O−Ar ON FULL AND REDUCED-DIMENSIONAL POTENTIAL ENERGY SURFACE”. The 71st International Symposium on Molecular Spectroscopy, University of Illinois at Urbana-Champaign, Urbana, Illinois, USA, June 20-24, (2016)</li>
-                  <li><strong>Hui Li</strong>, “A New Approach to Simulate Infrared Probe Spectra”.  The 30th Annual Symposium on Chemical Physics, University of Waterloo, Waterloo, Canada, November 6-8, (2015) </li>
-                  <li><strong>Hui Li</strong>, “Path Integral Monte Carlo Simulation of Superfluid in Doped Quantum Solution”. 2015 International Workshop on Frontiers of Theoretical and Computational Physics and Chemistry (WFTCPC'15), Northwest University, Xi'an, China, October 10-12, (2015). </li>
-                  <li>Ruijie Xue, Zexing Qu, <strong>Hui Li</strong>, Jiali Gao, “A New Approach to Simulate Infrared Probe Spectra”，复杂体系计算统计力学研讨会，中国，北京，中科院化学研究所，10月23-25日，(2015).</li>
-                  <li> <strong>Hui Li</strong>, "Path Integral Monte Carlo in Study of Microscopic Superfluid", Recent Advances in Quantum Dynamics and Thermodynamics of Complex System: The 15th ICQC Satellite Meeting, Peking Univeristy , Beijing, China, June 4-7, (2015)</li> 
-                  <li> Dan Hou, Xiao-Long Zhang, <strong>Hui Li</strong>, “A Full Intra- and Inter-molecular Potential Energy Surface, and Its Reduced-Dimension Treatment: A Case Study for H2O-Ar Dimer and H2O-(Ar)n Clusters”.  International Workshop on Computational Science and Engineering (IWCSE 2014), City University of Hong Kong, Hong Kong, China, December 13-16, (2014) </li>
-                  <li>李辉， “量子溶剂中的分子超流”，中国化学会第29届学术年会，化学动力学分会，中国，北京，北京大学，8月4-7日, (2014).</li>
-                  <li><strong>Hui Li</strong>, “Microwave and Infrared Spectra of H2 Containing Complexes with CO, HCN, HCCH”. 14th Meeting Symposium on Molecular Spectroscopy, Tokyo University, Tokyo, Japan, May 15-18, (2014)</li>
-                  <li><strong>Hui Li</strong>, “Atomicand Molecular Superfluid Probed with a Molecular Rotor in Bosonic Clusters UsingPath-Integral Monte Carlo Method”. 2013复杂体系计算统计力学研讨会, 中国，上海， 复旦大学, 10月25日-27日, (2013)</li>
-                  <li><strong>Hui Li</strong>, &quot;Onset of Phase Separation in Doped Quantum Clusters of Hydrogen-Helium Mixture: Is It Onset of Induced Superfluid?&quot;, International Conference on Computational Modeling Methods and Applications, Northeast Normal University, Changchun, China, September 27-28, (2013).</li>
-                  <li><strong>Hui Li</strong>, &quot;Quantum Monte Carlo Study of Superfluid in Doped Mixed Helium-Hydrogen Clusters&quot;. International Conference on Theoretical and High Performance Computational Chemistry, Dalian Institute of Chemical and Physics, Dalian, China, July 21-25, (2013)</li>
-                  <li><strong>Hui Li</strong>, &quot;Microscopic Superfluid: Path-Intergral Simulation of Nonclassical Rotations in Doped Quantum Clusters&quot;.国家自然科学基金委员会化学科学部举办的“物理化学青年学术交流研讨会”，中国，杭州，浙江大学，4月27-28日, (2013).</li>
-                  <li>李辉， “量子混合溶剂中的微观超流”，中国化学会第28届学术年会，理论与计算化学分会，中国，成都，四川大学，4月13-16日, (2012).</li>
-                  <li><strong>Hui Li</strong>, “Quantum Monte Carlo Prediction of Vibrational Frequency Shifts of OCS-(He)N Clusters”.12th Meeting Symposium on Molecular Spectroscopy,Sophia University, Tokyo, Japan, May 18-19, (2012)</li>
-                  <li><strong>Hui Li</strong>, “Nonclassical Rotations in Mixed Helium-Hydrogen Quantum Solutions Doped with a Chromophore Molecule”. MATRIX 2011 International Conference, University of British Columbia,Vancouver, Canada, July 10-15, (2011)</li>
-                  <li><strong>Hui Li</strong>, “Theoretical and Experimental Stuady of the Ro-vibrational Spectra of CO2-pH2-He Trimers”. 66th International Symposium on Molecular Spectroscopy, Ohio State University, Columbus, USA, June 20-24, (2011)</li>
-                  <li><strong>Hui Li</strong>, “Quantum Monte Carlo Study of Superfluidity in Mixed Helium-Hydrogen Quantum Solutions Doped with a Chromophore Molecule”. 94th Canada Chemistry Conference and Exhibition,Montreal, Canada, June 5-9, (2011)</li>
-                  <li><strong>Hui Li</strong>, “Superfluidity in Mixed Helium-Hydrogen Quantum Solutions Doped with a Chromophore Molecule”. 11th Annual Centre for Research in Molecule Modeling (CERMM)Concordia University, Montreal, Canada,June 4-5, (2011)</li>
-                  <li><strong>Hui Li</strong>, “Molecular Superfluid in Doped Quantum Solutions”. International Symposium on Theoretical and Computational Chemistry -2010, High Performance Computing Simulations , Harbin, China, December 5-10, (2010)</li>
-                  <li><strong>Hui Li</strong>, Robert J. Le Roy, Pierre-Nicholas Roy and A.R.W. McKellar “Molecular Superfluid: Nonclassical Rotations in Doped Para-Hydrogen Clusters”. The 65th International Symposium on Molecular Spectroscopy, Ohio State University, Columbus, Ohio, USA, June 21-25, (2010)</li>
-                  <li><strong>Hui Li</strong>, Pierre-Nicholas Roy and Robert J. Le Roy “Analytic Morse/Long-Range Potential Energy Surfaces and Predicted Vibrational Frequency Shifts for CO –(para-H2)n Clusters”. The 65th International Symposium on Molecular Spectroscopy, Ohio State University, Columbus, Ohio, USA, June 21-25, (2010)</li>
-                  <li><strong>Hui Li</strong>, A.R.W. McKellar, Robert J. Le Roy and Pierre-Nicholas Roy “Theoretical and Experimental Study of the Infrared Spectra of (p-H2)2-CO2 Trimer”. The 65th International Symposium on Molecular Spectroscopy, Ohio State University, Columbus, Ohio, USA, June 21-25, (2010)</li>
-                  <li><strong>Hui Li</strong>, Pierre-Nicholas Roy and Robert J. Le Roy “Analytic PES for CO2-H2 and Quantum Monte Carlo Simulation of Vibrational Shifts and Superfluidity in CO2 –(H2)n Clusters”. The 64th International Symposium on Molecular Spectroscopy, Ohio State University, Columbus, Ohio, USA, June 18-22, (2009)</li>
-                  <li><strong>Hui Li</strong>, Pierre-Nicholas Roy and Robert J. Le Roy “Analytic PES for the Weakly Bound CO2-H2 System, and Quantum Monte Carlo Study of Vibrational Shifts and Superfluidity in para-Hydrogen Clusters”. The 91st Canadian Symposium on Chemistry, Hamition, Canada, May 30-June 3, (2009)</li>
-                  <li><strong>Hui Li</strong>, Robert J. Le Roy, Nicholas Blinov and Pierre-Nicholas Roy, “Shortcomings of a Reduced-Dimension Potential Energy Surface: Path-Integral Monte-Carlo Simulation of v3 Vibrational Shifts for CO2 in Hen Clusters”. The 24th Annual Symposium on Chemical Physics, University of Waterloo, Waterloo, Canada, November 7-9, (2008)</li>
-                  <li><strong>Hui Li</strong>, Robert J. Le Roy, Nicholas Blinov and Pierre-Nicholas Roy, “Quantum Monte Carlo Prediction of Vibrational Frequency Shifts of (He)N-CO2 Clusters”. The 63rd International Symposium on Molecular Spectroscopy, Ohio State University, Columbus, Ohio, USA, June 16-20, (2008)</li>
-                  <li><strong>Hui Li</strong>, Tsuneo Hirano, Takayoshi Amano and Robert J. Le Roy, “Theoretical study of the potential energy surface for the reactions H3+ + CO → H2 + HCO+ and H3+ + CO → H2+HOC+”. The 63rd International Symposium on Molecular Spectroscopy, Ohio State University, Columbus, Ohio, USA, June 18-20, (2008)</li>
-                  <li><strong>Hui Li</strong> and Robert J. Le Roy, “An Analytic Three-Dimensional Potential Energy Surface for CO2-He and its Predicted Infrared Spectrum”. The 62nd International Symposium on Molecular Spectroscopy, Ohio State University, Columbus, Ohio, USA, June 18-22, (2007)</li>
-                  <li><strong>Hui Li</strong> and Robert J. Le Roy, “An Accurate ab initio Potential Energy Surface and Calculated Spectroscopic Constants for BeH2, BeD2 and BeHD”. The 61st International Symposium on Molecular Spectroscopy, Ohio State University, Columbus, Ohio, USA, June 19-23, (2006)</li>
-                </ul>
-              </div>
-            </div>
-
+            <h1>Oral presentations</h1><a name="talk"></a>
+            <!-- {{{ -->
+            <ul>
+              <li><strong>Hui Li</strong>, “Rovibrational Excited States of Large Amplitude Motions”.  2016 InternationalWorkshop on Frontiers of Theoretical and Computational Physics and Chemistry(WFTCPC'16)，Nanchang University, Nanchang, China, August 12-14(2016). </li>
+              <li><strong>李辉</strong>, “分子振动的非谐性、振动模间耦合及多参考效应对速率常数的影响”.  中国化学会第30届学术年会，中国，大连，大连理工大学，7月1日-4日(2016). </li>
+              <li><strong>李辉</strong>, “量子振动微扰方法及应用”.  中国化学会第30届学术年会，中国，大连，大连理工大学，7月1日-4日(2016). </li>
+              <li>Dan Hou, Xiao-Long Zhang, Yong-Tao Ma, Yu Zhai and <strong>Hui Li</strong>,“THE ROLE OF SYMMETRIC-STRETCH VIBRATION IN ASYMMETRIC-STRETCH VIBRATIONAL FREQUENCY SHIFT: THE CASE OF 2CH EXCITATION INFRARED SPECTRA OF ACETYLENE-HYDROGEN VAN DER WAALS COMPLEX”. The 71st International Symposium on Molecular Spectroscopy, University of Illinois at Urbana-Champaign, Urbana, Illinois, USA, June 20-24, (2016)</li>
+              <li>Dan Hou, Yong-Tao Ma, Xiao-Long Zhang and <strong>Hui Li</strong>,“THE ORIGINS OF INTRA- AND INTER-MOLECULAR VIBRATIONAL COUPLINGS: A CASE STUDY OF H2O−Ar ON FULL AND REDUCED-DIMENSIONAL POTENTIAL ENERGY SURFACE”. The 71st International Symposium on Molecular Spectroscopy, University of Illinois at Urbana-Champaign, Urbana, Illinois, USA, June 20-24, (2016)</li>
+              <li><strong>Hui Li</strong>, “A New Approach to Simulate Infrared Probe Spectra”.  The 30th Annual Symposium on Chemical Physics, University of Waterloo, Waterloo, Canada, November 6-8, (2015) </li>
+              <li><strong>Hui Li</strong>, “Path Integral Monte Carlo Simulation of Superfluid in Doped Quantum Solution”. 2015 International Workshop on Frontiers of Theoretical and Computational Physics and Chemistry (WFTCPC'15), Northwest University, Xi'an, China, October 10-12, (2015). </li>
+              <li>Ruijie Xue, Zexing Qu, <strong>Hui Li</strong>, Jiali Gao, “A New Approach to Simulate Infrared Probe Spectra”，复杂体系计算统计力学研讨会，中国，北京，中科院化学研究所，10月23-25日，(2015).</li>
+              <li> <strong>Hui Li</strong>, "Path Integral Monte Carlo in Study of Microscopic Superfluid", Recent Advances in Quantum Dynamics and Thermodynamics of Complex System: The 15th ICQC Satellite Meeting, Peking Univeristy , Beijing, China, June 4-7, (2015)</li> 
+              <li> Dan Hou, Xiao-Long Zhang, <strong>Hui Li</strong>, “A Full Intra- and Inter-molecular Potential Energy Surface, and Its Reduced-Dimension Treatment: A Case Study for H2O-Ar Dimer and H2O-(Ar)n Clusters”.  International Workshop on Computational Science and Engineering (IWCSE 2014), City University of Hong Kong, Hong Kong, China, December 13-16, (2014) </li>
+              <li>李辉， “量子溶剂中的分子超流”，中国化学会第29届学术年会，化学动力学分会，中国，北京，北京大学，8月4-7日, (2014).</li>
+              <li><strong>Hui Li</strong>, “Microwave and Infrared Spectra of H2 Containing Complexes with CO, HCN, HCCH”. 14th Meeting Symposium on Molecular Spectroscopy, Tokyo University, Tokyo, Japan, May 15-18, (2014)</li>
+              <li><strong>Hui Li</strong>, “Atomicand Molecular Superfluid Probed with a Molecular Rotor in Bosonic Clusters UsingPath-Integral Monte Carlo Method”. 2013复杂体系计算统计力学研讨会, 中国，上海， 复旦大学, 10月25日-27日, (2013)</li>
+              <li><strong>Hui Li</strong>, &quot;Onset of Phase Separation in Doped Quantum Clusters of Hydrogen-Helium Mixture: Is It Onset of Induced Superfluid?&quot;, International Conference on Computational Modeling Methods and Applications, Northeast Normal University, Changchun, China, September 27-28, (2013).</li>
+              <li><strong>Hui Li</strong>, &quot;Quantum Monte Carlo Study of Superfluid in Doped Mixed Helium-Hydrogen Clusters&quot;. International Conference on Theoretical and High Performance Computational Chemistry, Dalian Institute of Chemical and Physics, Dalian, China, July 21-25, (2013)</li>
+              <li><strong>Hui Li</strong>, &quot;Microscopic Superfluid: Path-Intergral Simulation of Nonclassical Rotations in Doped Quantum Clusters&quot;.国家自然科学基金委员会化学科学部举办的“物理化学青年学术交流研讨会”，中国，杭州，浙江大学，4月27-28日, (2013).</li>
+              <li>李辉， “量子混合溶剂中的微观超流”，中国化学会第28届学术年会，理论与计算化学分会，中国，成都，四川大学，4月13-16日, (2012).</li>
+              <li><strong>Hui Li</strong>, “Quantum Monte Carlo Prediction of Vibrational Frequency Shifts of OCS-(He)N Clusters”.12th Meeting Symposium on Molecular Spectroscopy,Sophia University, Tokyo, Japan, May 18-19, (2012)</li>
+              <li><strong>Hui Li</strong>, “Nonclassical Rotations in Mixed Helium-Hydrogen Quantum Solutions Doped with a Chromophore Molecule”. MATRIX 2011 International Conference, University of British Columbia,Vancouver, Canada, July 10-15, (2011)</li>
+              <li><strong>Hui Li</strong>, “Theoretical and Experimental Stuady of the Ro-vibrational Spectra of CO2-pH2-He Trimers”. 66th International Symposium on Molecular Spectroscopy, Ohio State University, Columbus, USA, June 20-24, (2011)</li>
+              <li><strong>Hui Li</strong>, “Quantum Monte Carlo Study of Superfluidity in Mixed Helium-Hydrogen Quantum Solutions Doped with a Chromophore Molecule”. 94th Canada Chemistry Conference and Exhibition,Montreal, Canada, June 5-9, (2011)</li>
+              <li><strong>Hui Li</strong>, “Superfluidity in Mixed Helium-Hydrogen Quantum Solutions Doped with a Chromophore Molecule”. 11th Annual Centre for Research in Molecule Modeling (CERMM)Concordia University, Montreal, Canada,June 4-5, (2011)</li>
+              <li><strong>Hui Li</strong>, “Molecular Superfluid in Doped Quantum Solutions”. International Symposium on Theoretical and Computational Chemistry -2010, High Performance Computing Simulations , Harbin, China, December 5-10, (2010)</li>
+              <li><strong>Hui Li</strong>, Robert J. Le Roy, Pierre-Nicholas Roy and A.R.W. McKellar “Molecular Superfluid: Nonclassical Rotations in Doped Para-Hydrogen Clusters”. The 65th International Symposium on Molecular Spectroscopy, Ohio State University, Columbus, Ohio, USA, June 21-25, (2010)</li>
+              <li><strong>Hui Li</strong>, Pierre-Nicholas Roy and Robert J. Le Roy “Analytic Morse/Long-Range Potential Energy Surfaces and Predicted Vibrational Frequency Shifts for CO –(para-H2)n Clusters”. The 65th International Symposium on Molecular Spectroscopy, Ohio State University, Columbus, Ohio, USA, June 21-25, (2010)</li>
+              <li><strong>Hui Li</strong>, A.R.W. McKellar, Robert J. Le Roy and Pierre-Nicholas Roy “Theoretical and Experimental Study of the Infrared Spectra of (p-H2)2-CO2 Trimer”. The 65th International Symposium on Molecular Spectroscopy, Ohio State University, Columbus, Ohio, USA, June 21-25, (2010)</li>
+              <li><strong>Hui Li</strong>, Pierre-Nicholas Roy and Robert J. Le Roy “Analytic PES for CO2-H2 and Quantum Monte Carlo Simulation of Vibrational Shifts and Superfluidity in CO2 –(H2)n Clusters”. The 64th International Symposium on Molecular Spectroscopy, Ohio State University, Columbus, Ohio, USA, June 18-22, (2009)</li>
+              <li><strong>Hui Li</strong>, Pierre-Nicholas Roy and Robert J. Le Roy “Analytic PES for the Weakly Bound CO2-H2 System, and Quantum Monte Carlo Study of Vibrational Shifts and Superfluidity in para-Hydrogen Clusters”. The 91st Canadian Symposium on Chemistry, Hamition, Canada, May 30-June 3, (2009)</li>
+              <li><strong>Hui Li</strong>, Robert J. Le Roy, Nicholas Blinov and Pierre-Nicholas Roy, “Shortcomings of a Reduced-Dimension Potential Energy Surface: Path-Integral Monte-Carlo Simulation of v3 Vibrational Shifts for CO2 in Hen Clusters”. The 24th Annual Symposium on Chemical Physics, University of Waterloo, Waterloo, Canada, November 7-9, (2008)</li>
+              <li><strong>Hui Li</strong>, Robert J. Le Roy, Nicholas Blinov and Pierre-Nicholas Roy, “Quantum Monte Carlo Prediction of Vibrational Frequency Shifts of (He)N-CO2 Clusters”. The 63rd International Symposium on Molecular Spectroscopy, Ohio State University, Columbus, Ohio, USA, June 16-20, (2008)</li>
+              <li><strong>Hui Li</strong>, Tsuneo Hirano, Takayoshi Amano and Robert J. Le Roy, “Theoretical study of the potential energy surface for the reactions H3+ + CO → H2 + HCO+ and H3+ + CO → H2+HOC+”. The 63rd International Symposium on Molecular Spectroscopy, Ohio State University, Columbus, Ohio, USA, June 18-20, (2008)</li>
+              <li><strong>Hui Li</strong> and Robert J. Le Roy, “An Analytic Three-Dimensional Potential Energy Surface for CO2-He and its Predicted Infrared Spectrum”. The 62nd International Symposium on Molecular Spectroscopy, Ohio State University, Columbus, Ohio, USA, June 18-22, (2007)</li>
+              <li><strong>Hui Li</strong> and Robert J. Le Roy, “An Accurate ab initio Potential Energy Surface and Calculated Spectroscopic Constants for BeH2, BeD2 and BeHD”. The 61st International Symposium on Molecular Spectroscopy, Ohio State University, Columbus, Ohio, USA, June 19-23, (2006)</li>
+            </ul>
+            <!-- }}} -->
           </div>
+        </div>
 
+      </div>
+
+
+      <!-- {{{ copyright part, do not change it unless necessary -->
+      <div class="row">
+        <div class="col-md-12">
+          <hr/>
+          <p align="center">Copyright © 2016-<span id="copyrightyear"></span> <a href="./maintainer.html">Website maintenance team</a></p>
+          <p align="center">Proudly powered by <a href="https://getbootstrap.com/">Bootstrap</a></p>
         </div>
       </div>
-			<!-- {{{ copyright part, do not change it unless necessary -->
-			<div class="row">
-				<div class="col-md-12">
-					<hr/>
-					<p align="center">Copyright © 2016-<span id="copyrightyear"></span> <a href="./maintainer.html">Website maintenance team</a></p>
-					<p align="center">Proudly powered by <a href="https://getbootstrap.com/">Bootstrap</a></p>
-				</div>
-			</div>
-			<!--}}} -->
+      <!--}}} -->
 
-			<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-			<script src="../js/jquery.min.js"></script>
-			<!-- Include all compiled plugins (below), or include individual files as needed -->
-			<script src="../js/bootstrap.min.js"></script>
+      <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+      <script src="../js/jquery.min.js"></script>
+      <!-- Include all compiled plugins (below), or include individual files as needed -->
+      <script src="../js/bootstrap.min.js"></script>
 
       <script src="../js/jquery.csv.min.js"></script>
       <script src="../js/publistgen.js"></script>
@@ -131,10 +132,10 @@
         generate_pub();
               });</script>
 
-			<script> var copyrightdate= new Date(); var copyrightyear = copyrightdate.getFullYear(); document.getElementById("copyrightyear").innerHTML = copyrightyear; </script>
+      <script> var copyrightdate= new Date(); var copyrightyear = copyrightdate.getFullYear(); document.getElementById("copyrightyear").innerHTML = copyrightyear; </script>
 
 
 
-		</div>
-	</body>
+    </div>
+  </body>
 </html>
