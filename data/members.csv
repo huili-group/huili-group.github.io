@@ -1,12 +1,22 @@
 ﻿name_zh,name_en,photo,email,state_zh,state_en,project_zh,project_en,orcid
+*Graduate Students*,,,,,,,,
 杨积泰,Ji-Tai Yang,jtyang.jpg,chem_jtyang@163.com,2018级博士研究生,"PhD Student, 2018",界面和频光谱,Study of sum frequency genaration spectra,0000-0003-1172-0401
 李佳芮,Jia-Rui Li,jrli-v2.jpg,1874542335@qq.com,2019级博士研究生,"PhD Student, 2019",光合作用中的量子机制,Quantum mechanism of photosynthesis,0000-0002-2358-0939
 李由,You Li,youli.jpg,liyou20@mails.jlu.edu.cn,2020级博士研究生,"PhD Student, 2020",机器学习势能面,Machine learning PES model,0000-0003-4882-8459
 刘佳,Jia Liu,jia_liu2.jpg,jialiu98@163.com,2022级博士研究生,"PhD Student, 2022",高能材料中的光谱和动力学,Spectroscopy and dynamics of energetic materials,0000-0002-1183-6474
 刘小霞,Xiao-Xia Liu,xiaoxia_liu.jpg,1491657359@qq.com,2021级硕士研究生,"MSc Student, 2021",高精度势能面的构建,Construction of high-accuracy PES,0000-0002-3414-3945
 李珂,Ke Li,Ke_Li.jpg,keli0531@163.com,2022级硕士研究生,"MSc Student, 2022",固体材料动力学模拟,Dynamic simulation of solid material,0000-0003-2004-0838
-王之夏,Zhi-Xia Wang,zxwang.jpg,,2023级硕士研究生,"MSc Student, 2023",量子动力学方法发展与应用,Development and applications of quantum dynamics,
-王宽 薛蒙 吕慎赫,"Kuan Wnag, Meng Xue, and Shen-He Lyu",meng.jpg,,2023年大学生创新训练项目,"Innovation Training Project, 2023",CH<sub>4</sub>-N<sub>2</sub>体系高精度势能面及振转光谱的计算,PES and re-vibrational spectroscopy of CH<sub>4</sub>-N<sub>2</sub>,
+王之夏,Zhi-Xia Wang,zxwang.jpg,2385116826@qq.com,2023级硕士研究生,"MSc Student, 2023",量子动力学方法发展与应用,Development and applications of quantum dynamics,
+*Undergraduate Students*,,,,,,,,
+王宽 薛蒙 吕慎赫,"Kuan Wnag, Meng Xue, and Shen-He Lyu",WXL_ITP.jpg,,2023年大学生创新训练项目,"Innovation Training Project, 2023",CH<sub>4</sub>-N<sub>2</sub>体系高精度势能面及振转光谱的计算,PES and re-vibrational spectroscopy of CH<sub>4</sub>-N<sub>2</sub>,
+唐浩宇 ,"Hao-Yu Tang",hytang.jpg,,2023年大学生创新训练项目,"Innovation Training Project, 2023",LQVE 方法模拟磷脂/水界面二维
+和频光谱, Simulating lipid-water 2-D vibrational sum frequency generation (VSCF) spectra by LQVE method,
+张容纲 ,"Rong-Gang Zhang",rgzhang.jpg,,2023年大学生创新训练项目,"Innovation Training Project, 2023",LQVE 方法模拟磷脂/水界面二维
+和频光谱, Simulating lipid-water 2-D vibrational sum frequency generation (VSCF) spectra by LQVE method,
+高晗,"Hang Gao",hgao.jpg,,2023年大学生创新训练项目,"Innovation Training Project, 2023",LQVE 方法模拟磷脂/水界面二维
+和频光谱, Simulating lipid-water 2-D vibrational sum frequency generation (VSCF) spectra by LQVE method,
+王宣,"Xuan Wang",xwang.jpg,,2023年大学生创新训练项目,"Innovation Training Project, 2023",LQVE 方法模拟磷脂/水界面二维
+和频光谱, Simulating lipid-water 2-D vibrational sum frequency generation (VSCF) spectra by LQVE method,
 *Alumni*,,,,,,,,
 马永涛,Yong-Tao Ma,ytma.jpg,mayt@sdu.edu.cn,2016年获得理学博士学位,"PhD in Science, 2016",现为山东大学（青岛）助理研究员,"Now an assistant professor of Shandong University (Qingdao), China",
 侯丹,Dan Hou,houdan2017.jpg,houdan13@mails.jlu.edu.cn,2016年获得理学博士学位,"PhD in Science, 2016",现为江西农业大学理学院讲师,"Now a lecturer of Jiangxi Agricultural University, China",
@@ -28,6 +38,6 @@
 薛宇杰,Yu-Jie Xue,yjxue.jpg,,2022年获得理学学士学位,"BSc, 2022",现就读于中国科学院大连化学物理研究所,"Now a graduate student of DICP, CAS, China",
 刘嘉宁,Jia-ning Liu,jnliu.jpg,,2022年获得理学学士学位,"BSc, 2022",现就读于中国科学技术大学,"Now a graduate student of USTC, China",
 刘洋,Yang Liu,yangliu.jpg,,2021年大学生创新训练项目,"Innovation Training Project, 2021",现就读于中国科学院理化技术研究所,"Now a graduate student of TIPC, CAS, China",
-王子龙,Zi-Long Wang,zlwang.jpg,,2023年获得理学学士学位,"BSc, 2023",现就读于中国科学院长春应用化学研究所,"Now a graduate student of CIAC, CAS, China",
+王子龙,Zi-Long Wang,zlwang.jpg,dufenshuoo@gmail.com,2023年获得理学学士学位,"BSc, 2023",现就读于中国科学院长春应用化学研究所,"Now a graduate student of CIAC, CAS, China",https://orcid.org/0009-0007-8788-0504
 张天轶,Tian-Yi Zhang,zaki.jpg,,2023年获得理学学士学位,"BSc, 2023",现就读于南京大学化学化工学院,"Now a graduate student of College of Chemistry and Chemical Engineering, Nanjing University, China",
 白玉晗,Yu-Han Bai,yhbai.jpg,,2023年获得理学学士学位,"BSc, 2023",现就读于中国科学院大连化学物理研究所,"Now a graduate student of DICP, CAS, China",
