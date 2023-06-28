@@ -1,37 +1,37 @@
-ï»¿name_zh,name_en,photo,email,state_zh,state_en,project_zh,project_en,orcid
-æ¨ç§¯æ³°,Ji-Tai Yang,jtyang.jpg,chem_jtyang@163.com,2018çº§åšå£«ç ”ç©¶ç”Ÿ,"PhD Student, 2018",ç•Œé¢å’Œé¢‘å…‰è°±,Study of sum frequency genaration spectra,0000-0003-1172-0401
-æä½³èŠ®,Jia-Rui Li,jrli-v2.jpg,1874542335@qq.com,2019çº§åšå£«ç ”ç©¶ç”Ÿ,"PhD Student, 2019",å…‰åˆä½œç”¨ä¸­çš„é‡å­æœºåˆ¶,Quantum mechanism of photosynthesis,0000-0002-2358-0939
-æç”±,You Li,youli.jpg,liyou20@mails.jlu.edu.cn,2020çº§åšå£«ç ”ç©¶ç”Ÿ,"PhD Student, 2020",æœºå™¨å­¦ä¹ åŠ¿èƒ½é¢,Machine learning PES model,0000-0003-4882-8459
-åˆ˜ä½³,Jia Liu,jia_liu2.jpg,jialiu98@163.com,2022çº§åšå£«ç ”ç©¶ç”Ÿ,"PhD Student, 2022",é«˜èƒ½ææ–™ä¸­çš„å…‰è°±å’ŒåŠ¨åŠ›å­¦,Spectroscopy and dynamics of energetic materials,0000-0002-1183-6474
-åˆ˜å°éœ,Xiao-Xia Liu,xiaoxia_liu.jpg,1491657359@qq.com,2021çº§ç¡•å£«ç ”ç©¶ç”Ÿ,"MSc Student, 2021",é«˜ç²¾åº¦åŠ¿èƒ½é¢çš„æ„å»º,Construction of high-accuracy PES,0000-0002-3414-3945
-æç‚,Ke Li,Ke_Li.jpg,keli0531@163.com,2022çº§ç¡•å£«ç ”ç©¶ç”Ÿ,"MSc Student, 2022",å›ºä½“ææ–™åŠ¨åŠ›å­¦æ¨¡æ‹Ÿ,Dynamic simulation of solid material,0000-0003-2004-0838
-ç‹ä¹‹å¤,Zhi-Xia Wang,zxwang.jpg,2385116826@qq.com,2023çº§ç¡•å£«ç ”ç©¶ç”Ÿ,"MSc Student, 2023",é‡å­åŠ¨åŠ›å­¦æ–¹æ³•å‘å±•ä¸åº”ç”¨,Development and applications of quantum dynamics,
-ç‹å®½ è–›è’™ å•æ…èµ«,"Kuan Wnag, Meng Xue, and Shen-He Lyu",WXL_ITP.jpg,,2023å¹´å¤§å­¦ç”Ÿåˆ›æ–°è®­ç»ƒé¡¹ç›®,"Innovation Training Project, 2023",CH<sub>4</sub>-N<sub>2</sub>ä½“ç³»é«˜ç²¾åº¦åŠ¿èƒ½é¢åŠæŒ¯è½¬å…‰è°±çš„è®¡ç®—,PES and re-vibrational spectroscopy of CH<sub>4</sub>-N<sub>2</sub>,
-å”æµ©å®‡ ,"Hao-Yu Tang",hytang.jpg,,2023å¹´å¤§å­¦ç”Ÿåˆ›æ–°è®­ç»ƒé¡¹ç›®,"Innovation Training Project, 2023",LQVE æ–¹æ³•æ¨¡æ‹Ÿç£·è„‚/æ°´ç•Œé¢äºŒç»´å’Œé¢‘å…‰è°±, Simulating lipid-water 2-D vibrational sum frequency generation (VSCF) spectra by LQVE method,
-å¼ å®¹çº² ,"Rong-Gang Zhang",rgzhang.jpg,,2023å¹´å¤§å­¦ç”Ÿåˆ›æ–°è®­ç»ƒé¡¹ç›®,"Innovation Training Project, 2023",LQVE æ–¹æ³•æ¨¡æ‹Ÿç£·è„‚/æ°´ç•Œé¢äºŒç»´å’Œé¢‘å…‰è°±, Simulating lipid-water 2-D vibrational sum frequency generation (VSCF) spectra by LQVE method,
-é«˜æ™—,"Hang Gao",hgao.jpg,,2023å¹´å¤§å­¦ç”Ÿåˆ›æ–°è®­ç»ƒé¡¹ç›®,"Innovation Training Project, 2023",LQVE æ–¹æ³•æ¨¡æ‹Ÿç£·è„‚/æ°´ç•Œé¢äºŒç»´å’Œé¢‘å…‰è°±, Simulating lipid-water 2-D vibrational sum frequency generation (VSCF) spectra by LQVE method,
-ç‹å®£,"Xuan Wang",xwang.jpg,,2023å¹´å¤§å­¦ç”Ÿåˆ›æ–°è®­ç»ƒé¡¹ç›®,"Innovation Training Project, 2023",LQVE æ–¹æ³•æ¨¡æ‹Ÿç£·è„‚/æ°´ç•Œé¢äºŒç»´å’Œé¢‘å…‰è°±, Simulating lipid-water 2-D vibrational sum frequency generation (VSCF) spectra by LQVE method,
-*Alumni*,,,,,,,,
-é©¬æ°¸æ¶›,Yong-Tao Ma,ytma.jpg,mayt@sdu.edu.cn,2016å¹´è·å¾—ç†å­¦åšå£«å­¦ä½,"PhD in Science, 2016",ç°ä¸ºå±±ä¸œå¤§å­¦ï¼ˆé’å²›ï¼‰åŠ©ç†ç ”ç©¶å‘˜,"Now an assistant professor of Shandong University (Qingdao), China",
-ä¾¯ä¸¹,Dan Hou,houdan2017.jpg,houdan13@mails.jlu.edu.cn,2016å¹´è·å¾—ç†å­¦åšå£«å­¦ä½,"PhD in Science, 2016",ç°ä¸ºæ±Ÿè¥¿å†œä¸šå¤§å­¦ç†å­¦é™¢è®²å¸ˆ,"Now a lecturer of Jiangxi Agricultural University, China",
-åˆ˜é™æ•,Jing-Min Liu,jmliu.jpg,liujm14@mails.jlu.edu.cn,2018å¹´è·å¾—ç†å­¦åšå£«å­¦ä½,"PhD in Science, 2018",ç°ä¸ºä¸­å›½ç§‘å­¦é™¢å¤§è¿åŒ–å­¦ç‰©ç†ç ”ç©¶æ‰€åšå£«å,"Now a post-doctoral research fellow of DICP, CAS, China ",
-å¼ æ™“é¾™,Xiao-Long Zhang,xlzhang.jpg,zhangxl12@mails.jlu.edu.cn,2018å¹´è·å¾—ç†å­¦åšå£«å­¦ä½,"PhD in Science, 2018",ç°ä¸ºçƒŸå°å¤§å­¦åŒ–å­¦åŒ–å·¥å­¦é™¢è®²å¸ˆ,"Now a a lecturer of YanTai University, China",0000-0002-5209-7911
-ä¸›é˜³,Yang Cong,congyang.jpg,congyang14@mails.jlu.edu.cn,2023å¹´è·å¾—ç†å­¦åšå£«å­¦ä½,"PhD in Science, 2023",æœ‰æœºæ°”æº¶èƒ¶ä¸­çš„è¶…å¿«å…‰è°±,Ultrafast spectroscopy in organic aerosols,0000-0003-1336-9096
-ç¿Ÿç¾½,Yu Zhai,yuzhai.jpg,yuzhai@mail.huiligroup.org,2023å¹´è·å¾—ç†å­¦åšå£«å­¦ä½,"PhD in Science, 2023",ç°ä¸ºåŒ—äº¬å¤§å­¦åŒ–å­¦ä¸åˆ†å­å·¥ç¨‹å­¦é™¢åšé›…åšå£«å,"Now a Boya postdoctorial fellow of CCME, Peking University, China",0000-0002-5065-688X
-è–›ç‘æ°,Rui-Jie Xue,rjxue.jpg,xuerj13@mails.jlu.edu.cn,2013çº§ç¡•å£«ç ”ç©¶ç”Ÿ,"MSc Student, 2013",æœ‰æœºæ°”æº¶èƒ¶ä¸­çš„çº¢å¤–å…‰è°±,IR spectroscopy in organic aerosols,
-ç‹ç’,Lu Wang,luwang.jpg,1539363208@qq.com,2017çº§ç¡•å£«ç ”ç©¶ç”Ÿ,"MSc Student, 2017",æºæ‚é‡å­æˆ–ç»å…¸åŸºè´¨ä¸­çš„å…‰è°±å’ŒåŠ¨åŠ›å­¦,Spectroscopy and Dynamics in doped Quantum or Classical matrix,
-ç¥ä¹¾,Qian Zhu,qianzhu.jpg,qianzhu18@mails.jlu.edu.cn,2018çº§ç¡•å£«ç ”ç©¶ç”Ÿï¼ˆä¸é«˜åŠ åŠ›æ•™æˆåˆä½œï¼‰,"MSc Student, 2018 (Joint with Prof. Jiali Gao)",ç°å°±è¯»äºå‰æ—å¤§å­¦åŒ–å­¦å­¦é™¢,"Now a PhD student of College of Chemistry, Jilin University, China",
-èƒ¡è‰¯å®‡,Liangyu Hu,lyhu.jpg,18829042983@163.com,2023å¹´è·å¾—ç†å­¦ç¡•å£«å­¦ä½,"MSc, 2023",å›ºæ€é’ ç”µæ± ä¸­çš„è½¬åŠ¨åŠ¨åŠ›å­¦,Rotation dynamics of solid state sodium battery,0000-0002-4585-5964
-èƒ¡ç‰è“‰,Yu-Rong Hu,yr_hu2.jpg,549418805@qq.com,2023å¹´è·å¾—ç†å­¦ç¡•å£«å­¦ä½,"MSc, 2023",ç°å°±è¯»äºå‰æ—å¤§å­¦åŒ–å­¦å­¦é™¢,"Now a PhD student of College of Chemistry, Jilin University, China",0000-0002-4652-3590
-å«èˆª,Hang Wei,weihang.jpg,1301415245@qq.com,è®¿é—®å­¦ç”Ÿ,Visiting Student,çº³ç±³å›¢ç°‡ä¸­çš„å…‰ç”µå­å…‰è°±,Photoelectron spectroscopy of nano clusters,
-æ¨ä¸œé“®,Dongzheng Yang,dzyang.jpg,,2015å¹´è·å¾—ç†å­¦å­¦å£«å­¦ä½,"BSc, 2015",ç°ä¸ºæ–°å¢¨è¥¿å“¥å¤§å­¦åšå£«å,"Now a postdoctorial fellow of University of New Mexico, USA",
-é™ˆå¦,Ken Chen,kenchen.jpg,jhj8544@gmail.com,2012å¹´å¤§å­¦ç”Ÿåˆ›æ–°è®­ç»ƒé¡¹ç›®,"Innovation Training Project, 2012",è·¯å¾„ç§¯åˆ†åŸºæ€è’™ç‰¹å¡æ´›æ–¹æ³•çš„å‘å±•ä¸åº”ç”¨,Development of Ground state PIMC,
-å­Ÿä»¤åª›,Ling-Yuan Meng,lymeng.jpg,lingyuan@uchicago.edu,2015å¹´å¤§å­¦ç”Ÿåˆ›æ–°è®­ç»ƒé¡¹ç›®ï¼ŒåŠ æ‹¿å¤§æ»‘é“å¢å¤§å­¦2015å¹´ç§‹å…¬æ´¾è®¿é—®å­¦ç”Ÿ,"Innovation Training Project, 2015; Visiting student, UWaterloo, 2015",ç°å°±è¯»äºèŠåŠ å“¥å¤§å­¦åˆ†å­å·¥ç¨‹å­¦é™¢,"Now a PhD student of Pritzker School of Molecular Engineering, University of Chicago, USA",
-æ¢æ°é”‹,Jie-Feng Liang,jfliang.jpg,liangjiefeng@pku.edu.cn,2015å¹´å¤§å­¦ç”Ÿåˆ›æ–°è®­ç»ƒé¡¹ç›®,"Innovation Training Project, 2015",ç°å°±è¯»äºåŒ—äº¬å¤§å­¦åŒ–å­¦ä¸åˆ†å­å·¥ç¨‹å­¦é™¢,"Now a graduate student of CCME, Peking University, China",
-åˆ˜æ˜å¿ƒ,Ming-Xin Liu,mxliu.jpg,liu2742@purdue.edu,2017å¹´å¤§å­¦ç”Ÿåˆ›æ–°è®­ç»ƒé¡¹ç›®,"Innovation Training Project, 2017",ç°å°±è¯»äºæ™®æ¸¡å¤§å­¦åŒ–å­¦ç³»,"Now a graduate student of Department of Chemistry, Purdue University, USA",
-è–›å®‡æ°,Yu-Jie Xue,yjxue.jpg,,2022å¹´è·å¾—ç†å­¦å­¦å£«å­¦ä½,"BSc, 2022",ç°å°±è¯»äºä¸­å›½ç§‘å­¦é™¢å¤§è¿åŒ–å­¦ç‰©ç†ç ”ç©¶æ‰€,"Now a graduate student of DICP, CAS, China",
-åˆ˜å˜‰å®,Jia-ning Liu,jnliu.jpg,,2022å¹´è·å¾—ç†å­¦å­¦å£«å­¦ä½,"BSc, 2022",ç°å°±è¯»äºä¸­å›½ç§‘å­¦æŠ€æœ¯å¤§å­¦,"Now a graduate student of USTC, China",
-åˆ˜æ´‹,Yang Liu,yangliu.jpg,,2021å¹´å¤§å­¦ç”Ÿåˆ›æ–°è®­ç»ƒé¡¹ç›®,"Innovation Training Project, 2021",ç°å°±è¯»äºä¸­å›½ç§‘å­¦é™¢ç†åŒ–æŠ€æœ¯ç ”ç©¶æ‰€,"Now a graduate student of TIPC, CAS, China",
-ç‹å­é¾™,Zi-Long Wang,zlwang.jpg,dufenshuoo@gmail.com,2023å¹´è·å¾—ç†å­¦å­¦å£«å­¦ä½,"BSc, 2023",ç°å°±è¯»äºä¸­å›½ç§‘å­¦é™¢é•¿æ˜¥åº”ç”¨åŒ–å­¦ç ”ç©¶æ‰€,"Now a graduate student of CIAC, CAS, China",https://orcid.org/0009-0007-8788-0504
-å¼ å¤©è½¶,Tian-Yi Zhang,zaki.jpg,,2023å¹´è·å¾—ç†å­¦å­¦å£«å­¦ä½,"BSc, 2023",ç°å°±è¯»äºå—äº¬å¤§å­¦åŒ–å­¦åŒ–å·¥å­¦é™¢,"Now a graduate student of College of Chemistry and Chemical Engineering, Nanjing University, China",
-ç™½ç‰æ™—,Yu-Han Bai,yhbai.jpg,,2023å¹´è·å¾—ç†å­¦å­¦å£«å­¦ä½,"BSc, 2023",ç°å°±è¯»äºä¸­å›½ç§‘å­¦é™¢å¤§è¿åŒ–å­¦ç‰©ç†ç ”ç©¶æ‰€,"Now a graduate student of DICP, CAS, China",
+name_zh	name_en	photo	email	state_zh	state_en	project_zh	project_en	orcid
+Ñî»ıÌ©	Ji-Tai Yang	jtyang.jpg	chem_jtyang@163.com	2018¼¶²©Ê¿ÑĞ¾¿Éú	"PhD Student, 2018"	½çÃæºÍÆµ¹âÆ×	Study of sum frequency genaration spectra	0000-0003-1172-0401
+Àî¼ÑÜÇ	Jia-Rui Li	jrli-v2.jpg	1874542335@qq.com	2019¼¶²©Ê¿ÑĞ¾¿Éú	"PhD Student, 2019"	¹âºÏ×÷ÓÃÖĞµÄÁ¿×Ó»úÖÆ	Quantum mechanism of photosynthesis	0000-0002-2358-0939
+ÀîÓÉ	You Li	youli.jpg	liyou20@mails.jlu.edu.cn	2020¼¶²©Ê¿ÑĞ¾¿Éú	"PhD Student, 2020"	»úÆ÷Ñ§Ï°ÊÆÄÜÃæ	Machine learning PES model	0000-0003-4882-8459
+Áõ¼Ñ	Jia Liu	jia_liu2.jpg	jialiu98@163.com	2022¼¶²©Ê¿ÑĞ¾¿Éú	"PhD Student, 2022"	¸ßÄÜ²ÄÁÏÖĞµÄ¹âÆ×ºÍ¶¯Á¦Ñ§	Spectroscopy and dynamics of energetic materials	0000-0002-1183-6474
+ÁõĞ¡Ï¼	Xiao-Xia Liu	xiaoxia_liu.jpg	1491657359@qq.com	2021¼¶Ë¶Ê¿ÑĞ¾¿Éú	"MSc Student, 2021"	¸ß¾«¶ÈÊÆÄÜÃæµÄ¹¹½¨	Construction of high-accuracy PES	0000-0002-3414-3945
+Àîçæ	Ke Li	Ke_Li.jpg	keli0531@163.com	2022¼¶Ë¶Ê¿ÑĞ¾¿Éú	"MSc Student, 2022"	¹ÌÌå²ÄÁÏ¶¯Á¦Ñ§Ä£Äâ	Dynamic simulation of solid material	0000-0003-2004-0838
+ÍõÖ®ÏÄ	Zhi-Xia Wang	zxwang.jpg	2385116826@qq.com	2023¼¶Ë¶Ê¿ÑĞ¾¿Éú	"MSc Student, 2023"	Á¿×Ó¶¯Á¦Ñ§·½·¨·¢Õ¹ÓëÓ¦ÓÃ	Development and applications of quantum dynamics	
+Íõ¿í Ñ¦ÃÉ ÂÀÉ÷ºÕ	"Kuan Wnag, Meng Xue, and Shen-He Lyu"	WXL_ITP.jpg		2023Äê´óÑ§Éú´´ĞÂÑµÁ·ÏîÄ¿	"Innovation Training Project, 2023"	CH<sub>4</sub>-N<sub>2</sub>ÌåÏµ¸ß¾«¶ÈÊÆÄÜÃæ¼°Õñ×ª¹âÆ×µÄ¼ÆËã	PES and re-vibrational spectroscopy of CH<sub>4</sub>-N<sub>2</sub>	
+ÌÆºÆÓî 	Hao-Yu Tang	hytang.jpg		2023Äê´óÑ§Éú´´ĞÂÑµÁ·ÏîÄ¿	"Innovation Training Project, 2023"	LQVE ·½·¨Ä£ÄâÁ×Ö¬/Ë®½çÃæ¶şÎ¬ºÍÆµ¹âÆ×	 Simulating lipid-water 2-D vibrational sum frequency generation (VSCF) spectra by LQVE method	
+ÕÅÈİ¸Ù 	Rong-Gang Zhang	rgzhang.jpg		2023Äê´óÑ§Éú´´ĞÂÑµÁ·ÏîÄ¿	"Innovation Training Project, 2023"	LQVE ·½·¨Ä£ÄâÁ×Ö¬/Ë®½çÃæ¶şÎ¬ºÍÆµ¹âÆ×	 Simulating lipid-water 2-D vibrational sum frequency generation (VSCF) spectra by LQVE method	
+¸ßêÏ	Hang Gao	hgao.jpg		2023Äê´óÑ§Éú´´ĞÂÑµÁ·ÏîÄ¿	"Innovation Training Project, 2023"	LQVE ·½·¨Ä£ÄâÁ×Ö¬/Ë®½çÃæ¶şÎ¬ºÍÆµ¹âÆ×	 Simulating lipid-water 2-D vibrational sum frequency generation (VSCF) spectra by LQVE method	
+ÍõĞû	Xuan Wang	xwang.jpg		2023Äê´óÑ§Éú´´ĞÂÑµÁ·ÏîÄ¿	"Innovation Training Project, 2023"	LQVE ·½·¨Ä£ÄâÁ×Ö¬/Ë®½çÃæ¶şÎ¬ºÍÆµ¹âÆ×	 Simulating lipid-water 2-D vibrational sum frequency generation (VSCF) spectra by LQVE method	
+*Alumni*								
+ÂíÓÀÌÎ	Yong-Tao Ma	ytma.jpg	mayt@sdu.edu.cn	2016Äê»ñµÃÀíÑ§²©Ê¿Ñ§Î»	"PhD in Science, 2016"	ÏÖÎªÉ½¶«´óÑ§£¨Çàµº£©ÖúÀíÑĞ¾¿Ô±	"Now an assistant professor of Shandong University (Qingdao), China"	
+ºîµ¤	Dan Hou	houdan2017.jpg	houdan13@mails.jlu.edu.cn	2016Äê»ñµÃÀíÑ§²©Ê¿Ñ§Î»	"PhD in Science, 2016"	ÏÖÎª½­Î÷Å©Òµ´óÑ§ÀíÑ§Ôº½²Ê¦	"Now a lecturer of Jiangxi Agricultural University, China"	
+Áõ¾²Ãô	Jing-Min Liu	jmliu.jpg	liujm14@mails.jlu.edu.cn	2018Äê»ñµÃÀíÑ§²©Ê¿Ñ§Î»	"PhD in Science, 2018"	ÏÖÎªÖĞ¹ú¿ÆÑ§Ôº´óÁ¬»¯Ñ§ÎïÀíÑĞ¾¿Ëù²©Ê¿ºó	"Now a post-doctoral research fellow of DICP, CAS, China "	
+ÕÅÏşÁú	Xiao-Long Zhang	xlzhang.jpg	zhangxl12@mails.jlu.edu.cn	2018Äê»ñµÃÀíÑ§²©Ê¿Ñ§Î»	"PhD in Science, 2018"	ÏÖÎªÑÌÌ¨´óÑ§»¯Ñ§»¯¹¤Ñ§Ôº½²Ê¦	"Now a a lecturer of YanTai University, China"	0000-0002-5209-7911
+´ÔÑô	Yang Cong	congyang.jpg	congyang14@mails.jlu.edu.cn	2023Äê»ñµÃÀíÑ§²©Ê¿Ñ§Î»	"PhD in Science, 2023"	ÓĞ»úÆøÈÜ½ºÖĞµÄ³¬¿ì¹âÆ×	Ultrafast spectroscopy in organic aerosols	0000-0003-1336-9096
+µÔÓğ	Yu Zhai	yuzhai.jpg	yuzhai@mail.huiligroup.org	2023Äê»ñµÃÀíÑ§²©Ê¿Ñ§Î»	"PhD in Science, 2023"	ÏÖÎª±±¾©´óÑ§»¯Ñ§Óë·Ö×Ó¹¤³ÌÑ§Ôº²©ÑÅ²©Ê¿ºó	"Now a Boya postdoctorial fellow of CCME, Peking University, China"	0000-0002-5065-688X
+Ñ¦Èğ½Ü	Rui-Jie Xue	rjxue.jpg	xuerj13@mails.jlu.edu.cn	2013¼¶Ë¶Ê¿ÑĞ¾¿Éú	"MSc Student, 2013"	ÓĞ»úÆøÈÜ½ºÖĞµÄºìÍâ¹âÆ×	IR spectroscopy in organic aerosols	
+Íõè´	Lu Wang	luwang.jpg	1539363208@qq.com	2017¼¶Ë¶Ê¿ÑĞ¾¿Éú	"MSc Student, 2017"	²ôÔÓÁ¿×Ó»ò¾­µä»ùÖÊÖĞµÄ¹âÆ×ºÍ¶¯Á¦Ñ§	Spectroscopy and Dynamics in doped Quantum or Classical matrix	
+×£Ç¬	Qian Zhu	qianzhu.jpg	qianzhu18@mails.jlu.edu.cn	2018¼¶Ë¶Ê¿ÑĞ¾¿Éú£¨Óë¸ß¼ÓÁ¦½ÌÊÚºÏ×÷£©	"MSc Student, 2018 (Joint with Prof. Jiali Gao)"	ÏÖ¾Í¶ÁÓÚ¼ªÁÖ´óÑ§»¯Ñ§Ñ§Ôº	"Now a PhD student of College of Chemistry, Jilin University, China"	
+ºúÁ¼Óî	Liangyu Hu	lyhu.jpg	18829042983@163.com	2023Äê»ñµÃÀíÑ§Ë¶Ê¿Ñ§Î»	"MSc, 2023"	¹ÌÌ¬ÄÆµç³ØÖĞµÄ×ª¶¯¶¯Á¦Ñ§	Rotation dynamics of solid state sodium battery	0000-0002-4585-5964
+ºúÓñÈØ	Yu-Rong Hu	yr_hu2.jpg	549418805@qq.com	2023Äê»ñµÃÀíÑ§Ë¶Ê¿Ñ§Î»	"MSc, 2023"	ÏÖ¾Í¶ÁÓÚ¼ªÁÖ´óÑ§»¯Ñ§Ñ§Ôº	"Now a PhD student of College of Chemistry, Jilin University, China"	0000-0002-4652-3590
+ÎÀº½	Hang Wei	weihang.jpg	1301415245@qq.com	·ÃÎÊÑ§Éú	Visiting Student	ÄÉÃ×ÍÅ´ØÖĞµÄ¹âµç×Ó¹âÆ×	Photoelectron spectroscopy of nano clusters	
+Ñî¶«ï£	Dongzheng Yang	dzyang.jpg		2015Äê»ñµÃÀíÑ§Ñ§Ê¿Ñ§Î»	"BSc, 2015"	ÏÖÎªĞÂÄ«Î÷¸ç´óÑ§²©Ê¿ºó	"Now a postdoctorial fellow of University of New Mexico, USA"	
+³Â¿Ñ	Ken Chen	kenchen.jpg	jhj8544@gmail.com	2012Äê´óÑ§Éú´´ĞÂÑµÁ·ÏîÄ¿	"Innovation Training Project, 2012"	Â·¾¶»ı·Ö»ùÌ¬ÃÉÌØ¿¨Âå·½·¨µÄ·¢Õ¹ÓëÓ¦ÓÃ	Development of Ground state PIMC	
+ÃÏÁîæÂ	Ling-Yuan Meng	lymeng.jpg	lingyuan@uchicago.edu	2015Äê´óÑ§Éú´´ĞÂÑµÁ·ÏîÄ¿£¬¼ÓÄÃ´ó»¬ÌúÂ¬´óÑ§2015ÄêÇï¹«ÅÉ·ÃÎÊÑ§Éú	"Innovation Training Project, 2015; Visiting student, UWaterloo, 2015"	ÏÖ¾Í¶ÁÓÚÖ¥¼Ó¸ç´óÑ§·Ö×Ó¹¤³ÌÑ§Ôº	"Now a PhD student of Pritzker School of Molecular Engineering, University of Chicago, USA"	
+Áº½Ü·æ	Jie-Feng Liang	jfliang.jpg	liangjiefeng@pku.edu.cn	2015Äê´óÑ§Éú´´ĞÂÑµÁ·ÏîÄ¿	"Innovation Training Project, 2015"	ÏÖ¾Í¶ÁÓÚ±±¾©´óÑ§»¯Ñ§Óë·Ö×Ó¹¤³ÌÑ§Ôº	"Now a graduate student of CCME, Peking University, China"	
+ÁõÃ÷ĞÄ	Ming-Xin Liu	mxliu.jpg	liu2742@purdue.edu	2017Äê´óÑ§Éú´´ĞÂÑµÁ·ÏîÄ¿	"Innovation Training Project, 2017"	ÏÖ¾Í¶ÁÓÚÆÕ¶É´óÑ§»¯Ñ§Ïµ	"Now a graduate student of Department of Chemistry, Purdue University, USA"	
+Ñ¦Óî½Ü	Yu-Jie Xue	yjxue.jpg		2022Äê»ñµÃÀíÑ§Ñ§Ê¿Ñ§Î»	"BSc, 2022"	ÏÖ¾Í¶ÁÓÚÖĞ¹ú¿ÆÑ§Ôº´óÁ¬»¯Ñ§ÎïÀíÑĞ¾¿Ëù	"Now a graduate student of DICP, CAS, China"	
+Áõ¼ÎÄş	Jia-ning Liu	jnliu.jpg		2022Äê»ñµÃÀíÑ§Ñ§Ê¿Ñ§Î»	"BSc, 2022"	ÏÖ¾Í¶ÁÓÚÖĞ¹ú¿ÆÑ§¼¼Êõ´óÑ§	"Now a graduate student of USTC, China"	
+ÁõÑó	Yang Liu	yangliu.jpg		2021Äê´óÑ§Éú´´ĞÂÑµÁ·ÏîÄ¿	"Innovation Training Project, 2021"	ÏÖ¾Í¶ÁÓÚÖĞ¹ú¿ÆÑ§ÔºÀí»¯¼¼ÊõÑĞ¾¿Ëù	"Now a graduate student of TIPC, CAS, China"	
+Íõ×ÓÁú	Zi-Long Wang	zlwang.jpg	dufenshuoo@gmail.com	2023Äê»ñµÃÀíÑ§Ñ§Ê¿Ñ§Î»	"BSc, 2023"	ÏÖ¾Í¶ÁÓÚÖĞ¹ú¿ÆÑ§Ôº³¤´ºÓ¦ÓÃ»¯Ñ§ÑĞ¾¿Ëù	"Now a graduate student of CIAC, CAS, China"	https://orcid.org/0009-0007-8788-0504
+ÕÅÌìéó	Tian-Yi Zhang	tyzhang.jpg	tianyizhang537@gmail.com	2023Äê»ñµÃÀíÑ§Ñ§Ê¿Ñ§Î»	"BSc, 2023"	ÏÖ¾Í¶ÁÓÚÄÏ¾©´óÑ§»¯Ñ§»¯¹¤Ñ§Ôº	"Now a graduate student of College of Chemistry and Chemical Engineering, Nanjing University, China"	
+°×ÓñêÏ	Yu-Han Bai	yhbai.jpg		2023Äê»ñµÃÀíÑ§Ñ§Ê¿Ñ§Î»	"BSc, 2023"	ÏÖ¾Í¶ÁÓÚÖĞ¹ú¿ÆÑ§Ôº´óÁ¬»¯Ñ§ÎïÀíÑĞ¾¿Ëù	"Now a graduate student of DICP, CAS, China"	

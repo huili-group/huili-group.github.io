@@ -3,10 +3,37 @@ function generate_members(lang){
   let lst = document.getElementById("memberlist");
 
   let members;
-  $.get("../data/members.csv", function (csv) {
+  $.get("../data/members_test.csv", function (csv) {
     // console.log(json); // this will show the info it in firebug console
     members=$.csv.toObjects(csv);
     for (let member of members) {
+      // You Li: add tag for Undergraduate and graduate students
+	  if(member.name_zh == "*Graduate*"){
+        let graduate = document.createElement('div');
+        switch (lang){
+          case "zh":
+            graduate.innerHTML = "<h1>研究生</h1>"; break;
+          case "en":
+          default:
+            graduate.innerHTML = "<h1>Graduate students</h1>"; break;
+        }
+        console.log(graduate);
+        lst.append(graduate);
+        continue;
+      }
+	  if(member.name_zh == "*Undergraduate*"){
+        let ugraduate = document.createElement('div');
+        switch (lang){
+          case "zh":
+            ugraduate.innerHTML = "<h1>研究生</h1>"; break;
+          case "en":
+          default:
+            ugraduate.innerHTML = "<h1>Undergraduate students</h1>"; break;
+        }
+        console.log(ugraduate);
+        lst.append(ugraduate);
+        continue;
+      }
       if(member.name_zh == "*Alumni*"){
         let alumni = document.createElement('div');
         switch (lang){
