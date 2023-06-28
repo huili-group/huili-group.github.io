@@ -25,7 +25,7 @@ function generate_members(lang){
         let ugraduate = document.createElement('div');
         switch (lang){
           case "zh":
-            ugraduate.innerHTML = "<h1>研究生</h1>"; break;
+            ugraduate.innerHTML = "<h1>本科生</h1>"; break;
           case "en":
           default:
             ugraduate.innerHTML = "<h1>Undergraduate students</h1>"; break;
