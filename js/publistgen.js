@@ -65,7 +65,7 @@ function generate_pub(){
 
 */
 
-function generate_pub(){
+function generate_pub(lang){
   let lst = document.getElementById("publist");
 
   let members;
@@ -76,16 +76,16 @@ function generate_pub(){
     for (let member of members) {
       if(member.author == "*"){
         head = document.createElement("h1");
-        head.innerHTML = member.year + '<a name="year' + member.year + '">' + '</a>';
+        head.innerHTML = member['year_'+lang] + '<a name="year_' + member['year_'+lang] + '">' + '</a>';
         $("#publist").append(head);
         li = document.createElement("li");
         li.setAttribute("role", "presentation");
-        li.innerHTML = '<a href="#year' + member.year + '">' + member.year + '</a>';
-        // document.getElementById("#yearnav").insertBefore(li,document.getElementById("talk"));
-        // $("#yearnav").insertBefore(li, $("talk"));
+        li.innerHTML = '<a href="#year_' + member['year_'+lang] + '">' + member['year_'+lang] + '</a>';
+        // document.getElementById("#year_nav").insertBefore(li,document.getElementById("talk"));
+        // $("#year_nav").insertBefore(li, $("talk"));
         document.getElementById("yearnav").insertBefore(li, document.getElementById("talknav"));
         lst = document.createElement("ul");
-        // document.getElementById("collapse"+member.year).append(lst);
+        // document.getElementById("collapse"+member.year_).append(lst);
         $("#publist").append(lst);
         continue;
       }
@@ -95,7 +95,10 @@ function generate_pub(){
       let innerhtml = '';
       innerhtml += member["author"].replace('李辉', '<b>李辉</b>').replace('Hui Li', '<b>Hui Li</b>') + "<br/>";
       innerhtml += member["title"] + "<br/>";
-      innerhtml += "<i>"+member["journal"]+ "</i>" + " <b>" + member["vol"]+ "</b>, " + member['page'] + " ("+ member['year'] + '). <a href="https://doi.org/' +member['doi']+ '">doi:' + member['doi'] + '</a> ';
+      innerhtml += "<i>"+member["journal"]+ "</i>" + " <b>" + member["vol"]+ "</b>, " + member['page'] + " ("+ member['year_'+lang]  +'). '; 
+      if (member["doi"] != ""){
+        innerhtml += '<a href="https://doi.org/' +member['doi']+ '">doi:' + member['doi'] + '</a> ';
+      }
       if (member["comment"] != ""){
         innerhtml += member['comment'];
       }
