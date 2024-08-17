@@ -1,10 +1,6 @@
 name_zh,name_en,photo,email,state_zh,state_en,project_zh,project_en,orcid
 *Graduate*,,,,,,,,
-杨积泰,Ji-Tai Yang,jtyang.jpg,chem_jtyang@163.com,2018级博士研究生,"PhD Student, 2018",界面和频光谱,Study of sum frequency genaration spectra,0000-0003-1172-0401
-李佳芮,Jia-Rui Li,jrli-v2.jpg,1874542335@qq.com,2019级博士研究生,"PhD Student, 2019",光合作用中的量子机制,Quantum mechanism of photosynthesis,0000-0002-2358-0939
-李由,You Li,youli.jpg,liyou20@mails.jlu.edu.cn,2020级博士研究生,"PhD Student, 2020",机器学习势能面,Machine learning PES model,0000-0003-4882-8459
 刘佳,Jia Liu,liujia6.jpg,jialiu98@163.com,2022级博士研究生,"PhD Student, 2022",高能材料中的光谱和动力学,Spectroscopy and dynamics of energetic materials,0000-0002-1183-6474
-刘小霞,Xiao-Xia Liu,xiaoxia_liu.jpg,1491657359@qq.com,2021级硕士研究生,"MSc Student, 2021",高精度势能面的构建,Construction of high-accuracy PES,0000-0002-3414-3945
 李珂,Ke Li,Ke_Li.jpg,keli0531@163.com,2022级硕士研究生,"MSc Student, 2022",固体材料动力学模拟,Dynamic simulation of solid material,0000-0003-2004-0838
 王之夏,Zhi-Xia Wang,zxwang.jpg,2385116826@qq.com,2023级硕士研究生,"MSc Student, 2023",量子动力学方法发展与应用,Development and applications of quantum dynamics,
 聂嘉,Jia Nie,jia_nie2.png,niejia0923@163.com,2023级硕士研究生,"MSc Student, 2023",界面和频光谱,Study of sum frequency genaration spectra,0009-0003-1959-6764
@@ -15,6 +11,9 @@ name_zh,name_en,photo,email,state_zh,state_en,project_zh,project_en,orcid
 高晗,"Hang Gao",hgao.jpg,,2023年大学生创新训练项目,"Innovation Training Project, 2023",LQVE 方法模拟磷脂/水界面二维和频光谱, Simulating lipid-water 2-D vibrational sum frequency generation (VSCF) spectra by LQVE method,
 王宣,"Xuan Wang",xwang.jpg,,2023年大学生创新训练项目,"Innovation Training Project, 2023",LQVE 方法模拟磷脂/水界面二维和频光谱, Simulating lipid-water 2-D vibrational sum frequency generation (VSCF) spectra by LQVE method,
 *Alumni*,,,,,,,,
+杨积泰,Ji-Tai Yang,jtyang.jpg,chem_jtyang@163.com,2024年获得理学博士学位,"PhD in Science, 2024",界面和频光谱,Study of sum frequency genaration spectra,0000-0003-1172-0401
+李佳芮,Jia-Rui Li,jrli-v2.jpg,1874542335@qq.com,2024年获得理学博士学位,"PhD in Science, 2024",光合作用中的量子机制,Quantum mechanism of photosynthesis,0000-0002-2358-0939
+李由,You Li,youli.jpg,liyou20@mails.jlu.edu.cn,2024年获得理学博士学位,"PhD in Science, 2024",机器学习势能面,Machine learning PES model,0000-0003-4882-8459
 马永涛,Yong-Tao Ma,ytma.jpg,mayt@sdu.edu.cn,2016年获得理学博士学位,"PhD in Science, 2016",现为山东大学（青岛）助理研究员,"Now an assistant professor of Shandong University (Qingdao), China",
 侯丹,Dan Hou,houdan2017.jpg,houdan13@mails.jlu.edu.cn,2016年获得理学博士学位,"PhD in Science, 2016",现为江西农业大学理学院讲师,"Now a lecturer of Jiangxi Agricultural University, China",
 刘静敏,Jing-Min Liu,jmliu.jpg,liujm14@mails.jlu.edu.cn,2018年获得理学博士学位,"PhD in Science, 2018",现为中国科学院大连化学物理研究所博士后,"Now a post-doctoral research fellow of DICP, CAS, China ",
@@ -26,6 +25,7 @@ name_zh,name_en,photo,email,state_zh,state_en,project_zh,project_en,orcid
 祝乾,Qian Zhu,qianzhu.jpg,qianzhu18@mails.jlu.edu.cn,2018级硕士研究生（与高加力教授合作）,"MSc Student, 2018 (Joint with Prof. Jiali Gao)",现就读于吉林大学化学学院,"Now a PhD student of College of Chemistry, Jilin University, China",
 胡良宇,Liangyu Hu,lyhu.jpg,18829042983@163.com,2023年获得理学硕士学位,"MSc, 2023",固态钠电池中的转动动力学,Rotation dynamics of solid state sodium battery,0000-0002-4585-5964
 胡玉蓉,Yu-Rong Hu,yr_hu2.jpg,549418805@qq.com,2023年获得理学硕士学位,"MSc, 2023",现就读于吉林大学化学学院,"Now a PhD student of College of Chemistry, Jilin University, China",0000-0002-4652-3590
+刘小霞,Xiao-Xia Liu,xiaoxia_liu.jpg,1491657359@qq.com,2024年获得理学硕士学位,"MSc, 2024",高精度势能面的构建,Construction of high-accuracy PES,0000-0002-3414-3945
 卫航,Hang Wei,weihang.jpg,1301415245@qq.com,访问学生,Visiting Student,纳米团簇中的光电子光谱,Photoelectron spectroscopy of nano clusters,
 杨东铮,Dongzheng Yang,dzyang.jpg,,2015年获得理学学士学位,"BSc, 2015",现为新墨西哥大学博士后,"Now a postdoctorial fellow of University of New Mexico, USA",
 陈垦,Ken Chen,kenchen.jpg,jhj8544@gmail.com,2012年大学生创新训练项目,"Innovation Training Project, 2012",路径积分基态蒙特卡洛方法的发展与应用,Development of Ground state PIMC,
