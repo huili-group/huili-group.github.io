@@ -3,7 +3,7 @@ function generate_members(lang){
   let lst = document.getElementById("memberlist");
 
   let members;
-  $.get("../data/members_test.csv", function (csv) {
+  $.get("../data/members.csv", function (csv) {
     // console.log(json); // this will show the info it in firebug console
     members=$.csv.toObjects(csv);
     for (let member of members) {
